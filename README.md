@@ -1,19 +1,9 @@
-## Olá, eu sou Lucas Confortini ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá, eu sou Lucas Batista ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ### Sobre mim
 <div style="display: inline_block"  >
 <p> - 👨‍💻 Consultor TI e Engenheiro de Software </p>
-<p> - 👨‍🎓 Graduação em Análise e Desenvolvimento de Sistemas</p>
-<p> - 👨‍🎓 Mestrado em Ciência da Computação</p>
-<p> - 🎯 Interesse: .NET, C, Python, Kafka, Nifi, API , SAP, SQL Server, HANA, MySql, MongoDB, PostegreSQL, AWS e Docker . </p>
+<p> - 🎯 Areas de atuação: .NET, C, C#, API , SAP, SQL Server, HANA, MySql, MongoDB, PostegreSQL, AWS e Docker . </p>
 <hr>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="175"
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasconfortini&layout=compact&langs_count=7&theme=dracula"
-    />
-  </a>
 </div>
 
 ## Algumas skills :nerd_face:
